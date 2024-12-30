@@ -2,6 +2,9 @@
 
 Implementation of gesture recognition using CNN based on the paper ["Machine Learning-Based Gesture Recognition Glove: Design and Implementation"](https://doi.org/10.3390/s24186157) (Sensors 2024).
 
+## Implementation Author
+Marwan Alharbi
+
 ## Overview
 This repository contains Google Colab implementation for recognizing five gestures (fist, double tap, finger spread, wave left, wave right) using sensor data from a smart glove equipped with:
 - 5 flex sensors
